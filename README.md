@@ -13,6 +13,13 @@ PROGRESS
 --------
 Class Loader (in Progress)
 
+BUILDING
+--------
+```
+$ cd src
+$ ./configure
+$ make
+```
 
 LICENSE
 -------
