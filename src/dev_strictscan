@@ -1,0 +1,2 @@
+#!/bin/bash
+make CC=clang EXTRA_CHECK="-Weverything -Wno-padded -Wunreachable-code-break -Wno-format-nonliteral"

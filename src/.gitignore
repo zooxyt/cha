@@ -1,0 +1,12 @@
+Makefile
+*.o
+*.a
+*.so
+*.dll
+core/*.o
+misc/*.o
+special/*.o
+vm/*.o
+cha-bin
+*.exe
+
